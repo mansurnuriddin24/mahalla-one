@@ -1,0 +1,6 @@
+{
+  "name": "Mahalla24",
+  "description": "O'zbekiston mahallalari uchun ko'p ijarachili raqamli boshqaruv platformasi — fuqarolar murojaatlari, xodimlar, rais va tuman ma'muriyati ekotizimi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
